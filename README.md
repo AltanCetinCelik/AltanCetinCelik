@@ -36,4 +36,5 @@ talking **CAN bus and edge devices** as I am talking **FastAPI, RAG, and agent d
 ---
 
 🌍 EEE student bridging software and real hardware · 🗣️ English C1–C2 · 💻 open to remote
-📫 **altancelik35@gmail.com**
+
+📫 **altancelik35@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/altan-celik-004bb1248/)

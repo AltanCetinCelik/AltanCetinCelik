@@ -1,40 +1,55 @@
-### Hi, I'm Altan 👋
+# Hi, I'm Altan
 
-I build **AI agents and Python backends** — with a focus on the layer most people skip:
-**safety guardrails and human-in-the-loop approval.**
+AI systems engineer with a background in electrical-electronics engineering, focused on building reliable automation, edge systems, industrial telemetry, and AI-powered tooling.
 
-I'm an Electrical–Electronics Engineering student who codes in Python, so I'm as comfortable
-talking **CAN bus and edge devices** as I am talking **FastAPI, RAG, and agent design**.
+I work across backend development, Python systems, industrial monitoring, AI agent workflows, and safety-oriented tooling where human approval and operational guardrails matter.
 
----
+## Core focus
 
-#### 🔭 What I build
+- AI agents and automation
+- Industrial IoT and edge monitoring
+- Backend APIs and data pipelines
+- SCADA-style dashboards and telemetry systems
+- Safety-first AI and human-in-the-loop systems
 
-- 🤖 **Seed** — a local-first **agentic assistant OS**: a centralized multi-provider LLM
-  gateway, hybrid semantic + keyword memory (RAG), an **approval-gated self-editing kernel**
-  (propose diff → back up → apply), and a risk-tiered tool-permission system.
+## Tech stack
 
-- 📄 **HibePilot** — an async **FastAPI + LLM backend** that generates government grant
-  documents, with an **anti-hallucination guardrail** that refuses to state any funding
-  figure the user didn't declare, plus retry logic and graceful degradation.
+Python • FastAPI • TypeScript • React • SQL • Docker • Linux • Raspberry Pi • C • Pydantic • pytest • AI agents • RAG • MCP • Ollama • Groq
 
-- ⚙️ **Industrial IoT (thesis)** — edge software + a **SCADA operator dashboard** for a
-  CAN-bus predictive-maintenance system, pulling live motor telemetry off a 500 kbit/s bus.
-  Built and demonstrated on **real hardware**.
-  → sanitized public demo in [My-Projects](https://github.com/AltanCetinCelik/My-Projects).
+## Featured projects
 
----
+### [luna-companion](https://github.com/AltanCetinCelik/luna-companion)
+Interactive prototype for a playful companion experience built with React, TypeScript, and Vite.
 
-#### 🛠️ Stack
+### [seed-agent-os](https://github.com/AltanCetinCelik/seed-agent-os)
+Experimental agent operating system and local AI workflow repository focused on memory, guardrails, and automation prototypes.
 
-**Languages** Python · TypeScript/JavaScript · SQL · C
-**AI/LLM** AI agents · tool-calling · RAG · prompt engineering · guardrails · Groq · Ollama · MCP
-**Backend** FastAPI · Pydantic · asyncio · REST · Docker
-**Frontend** React · Next.js
-**Systems** Linux · Raspberry Pi · CAN bus · SCADA · edge computing
+### [python-seed-lab](https://github.com/AltanCetinCelik/python-seed-lab)
+Python learning and experimentation lab for local automation, agent concepts, and control-room patterns.
 
----
+### [My-Projects](https://github.com/AltanCetinCelik/My-Projects)
+Public portfolio hub for AI, edge, and automation projects, with a sanitized engineering showcase and portfolio-style organization.
 
-🌍 EEE student bridging software and real hardware · 🗣️ English C1–C2 · 💻 open to remote
+## What I build
 
-📫 **altancelik35@gmail.com** · 💼 [LinkedIn](https://www.linkedin.com/in/altan-celik-004bb1248/)
+I enjoy building systems that combine practical engineering with meaningful AI workflows:
+
+- production-minded backend services
+- edge and industrial data pipelines
+- telemetry dashboards and monitoring tools
+- autonomous or semi-autonomous agent prototypes
+- guardrailed AI experiences with approval layers
+
+## Open to
+
+- AI systems engineering roles
+- backend / platform engineering roles
+- industrial IoT and edge engineering opportunities
+- automation and monitoring product work
+- remote or hybrid engineering collaboration
+
+## Contact
+
+- GitHub: [@AltanCetinCelik](https://github.com/AltanCetinCelik)
+- LinkedIn: available on request
+

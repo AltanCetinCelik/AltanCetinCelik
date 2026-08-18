@@ -51,5 +51,5 @@ I enjoy building systems that combine practical engineering with meaningful AI w
 ## Contact
 
 - GitHub: [@AltanCetinCelik](https://github.com/AltanCetinCelik)
-- LinkedIn: available on request
+- LinkedIn: [https://www.linkedin.com/in/altan-celik-004bb1248/)
 

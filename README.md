@@ -7,6 +7,7 @@ I work across backend development, Python systems, industrial monitoring, AI age
 ## Core focus
 
 - AI agents and automation
+- AI engineering
 - Industrial IoT and edge monitoring
 - Backend APIs and data pipelines
 - SCADA-style dashboards and telemetry systems

@@ -1,56 +1,181 @@
-# Hi, I'm Altan
+# Altan Çetin Çelik
 
-AI systems engineer with a background in electrical-electronics engineering, focused on building reliable automation, edge systems, industrial telemetry, and AI-powered tooling.
+### AI/ML Systems · Adaptive Inference · Agent Architecture · Edge AI
 
-I work across backend development, Python systems, industrial monitoring, AI agent workflows, and safety-oriented tooling where human approval and operational guardrails matter.
+I'm an Electrical-Electronics Engineering student focused on building **AI/ML systems that make better decisions about computation, tools, memory, and real-world actions**.
 
-## Core focus
+My work currently sits at the intersection of:
 
-- AI agents and automation
-- AI engineering
-- Industrial IoT and edge monitoring
-- Backend APIs and data pipelines
-- SCADA-style dashboards and telemetry systems
-- Safety-first AI and human-in-the-loop systems
+- adaptive LLM inference,
+- conditional computation and model routing,
+- local-first AI agents,
+- RAG and memory systems,
+- backend infrastructure,
+- edge computing,
+- industrial telemetry and automation.
 
-## Tech stack
+I care more about **systems that actually run, measure, fail visibly, and improve** than isolated AI demos.
 
-Python • FastAPI • TypeScript • React • SQL • Docker • Linux • Raspberry Pi • C • Pydantic • pytest • AI agents • RAG • MCP • Ollama • Groq
+---
 
-## Featured projects
+## Currently building
 
-### [luna-companion](https://github.com/AltanCetinCelik/luna-companion)
-Interactive prototype for a playful companion experience built with React, TypeScript, and Vite.
+### [SelectiveLLM](https://github.com/AltanCetinCelik/SelectiveLLM)
 
-### [seed-agent-os](https://github.com/AltanCetinCelik/seed-agent-os)
-Experimental agent operating system and local AI workflow repository focused on memory, guardrails, and automation prototypes.
+**Adaptive model-capacity orchestration for language models.**
 
-### [python-seed-lab](https://github.com/AltanCetinCelik/python-seed-lab)
-Python learning and experimentation lab for local automation, agent concepts, and control-room patterns.
+SelectiveLLM explores whether model capacity can be treated as a runtime resource instead of keeping every available capability resident for every request.
+
+```text id="lxqivk"
+request
+   ↓
+capacity controller
+   ↓
+Which model?
+Which expert?
+Which adapter?
+How much capacity?
+What should remain resident?
+   ↓
+minimum sufficient computation
+```
+
+Current work includes:
+
+- PEFT / LoRA capacity routing,
+- runtime loading and eviction,
+- memory-budget-aware planning,
+- cache-aware execution,
+- real MPS / accelerator telemetry,
+- reproducible routing benchmarks,
+- causal dense-capacity experiments,
+- learned and calibrated routing research.
+
+The project preserves positive, negative, and contradictory experimental results rather than hiding failed hypotheses.
+
+**Python · PyTorch · Transformers · PEFT · ML Systems · Conditional Computation**
+
+---
+
+## Selected work
+
+### [seed-showcase](https://github.com/AltanCetinCelik/seed-showcase)
+
+A clean, dependency-free distillation of my larger local-first AI agent architecture.
+
+It demonstrates:
+
+- LLM routing and provider failover,
+- hybrid memory,
+- tool and capability abstraction,
+- human approval gates,
+- risk-aware execution,
+- recoverable self-editing.
+
+Every side effect passes through an explicit approval layer.
+
+**Python · AI Agents · RAG · Memory · Guardrails · Human-in-the-loop**
+
+---
 
 ### [My-Projects](https://github.com/AltanCetinCelik/My-Projects)
-Public portfolio hub for AI, edge, and automation projects, with a sanitized engineering showcase and portfolio-style organization.
 
-## What I build
+A public engineering portfolio covering AI, edge computing, industrial monitoring, backend systems, and automation.
 
-I enjoy building systems that combine practical engineering with meaningful AI workflows:
+Includes a sanitized industrial IoT / telemetry stack with:
 
-- production-minded backend services
-- edge and industrial data pipelines
-- telemetry dashboards and monitoring tools
-- autonomous or semi-autonomous agent prototypes
-- guardrailed AI experiences with approval layers
+- synthetic machine telemetry,
+- edge-side data handling,
+- FastAPI services,
+- monitoring dashboards,
+- industrial communication concepts,
+- testable backend components.
 
-## Open to
+**Python · FastAPI · Edge Computing · Industrial IoT · Telemetry · Automation**
 
-- AI systems engineering roles
-- backend / platform engineering roles
-- industrial IoT and edge engineering opportunities
-- automation and monitoring product work
-- remote or hybrid engineering collaboration
+---
+
+### [luna-companion](https://github.com/AltanCetinCelik/luna-companion)
+
+An interactive, memory-driven web companion prototype built to explore stateful UX, character interaction, and responsive frontend architecture.
+
+**React · TypeScript · Vite · Tailwind · Framer Motion**
+
+---
+
+## Research interests
+
+```text id="mt8n03"
+Adaptive inference
+Conditional computation
+Model / expert / adapter routing
+Efficient LLM systems
+Agent orchestration
+RAG and memory
+Decision systems
+Local-first AI
+Edge AI
+Industrial intelligence
+```
+
+I'm particularly interested in systems that can answer questions such as:
+
+> What is the minimum computation required for this request?
+
+> Which model, expert, context, or tool is actually useful here?
+
+> When should an AI system abstain, escalate, or ask for approval?
+
+> How can capable AI systems run reliably under real memory, latency, hardware, and safety constraints?
+
+---
+
+## Engineering stack
+
+**Languages**
+
+`Python` · `TypeScript` · `C` · `C++` · `SQL`
+
+**AI / ML**
+
+`PyTorch` · `Transformers` · `PEFT / LoRA` · `RAG` · `LLM Routing` · `Agent Systems` · `Ollama`
+
+**Backend / Systems**
+
+`FastAPI` · `Pydantic` · `Docker` · `Linux` · `pytest` · `REST` · `WebSockets`
+
+**Edge / Industrial**
+
+`Raspberry Pi` · `STM32` · `ESP32` · `MQTT` · `Modbus` · `OPC UA` · `Industrial Telemetry`
+
+---
+
+## How I approach projects
+
+I try to build AI systems with explicit boundaries between:
+
+```text id="y5nmal"
+decision
+execution
+memory
+risk
+resource cost
+measurement
+```
+
+That usually means:
+
+- deterministic controls around probabilistic components,
+- measurable baselines,
+- explicit failure modes,
+- human approval for high-impact actions,
+- reproducible experiments,
+- keeping negative results instead of optimizing only for demos.
+
+---
 
 ## Contact
 
-- GitHub: [@AltanCetinCelik](https://github.com/AltanCetinCelik)
-- LinkedIn: [https://www.linkedin.com/in/altan-celik-004bb1248/)
+[LinkedIn](https://www.linkedin.com/in/altan-celik-004bb1248/) · [GitHub](https://github.com/AltanCetinCelik)
 
+**Current focus:** SelectiveLLM, adaptive inference, agent systems, and edge AI.

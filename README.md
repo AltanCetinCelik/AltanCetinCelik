@@ -2,7 +2,7 @@
 
 ### AI Systems · LLM Evaluation · Adaptive Inference · Backend & Edge AI
 
-**[altancelik.dev](https://altancelik.dev)** · [altancelik.dev](https://altancelik.dev) · [LinkedIn](https://www.linkedin.com/in/altan-celik-004bb1248/) · [GitHub](https://github.com/AltanCetinCelik)
+**[altancelik.dev](https://altancelik.dev)** · [LinkedIn](https://www.linkedin.com/in/altan-celik-004bb1248/) · [GitHub](https://github.com/AltanCetinCelik)
 
 I'm an Electrical-Electronics Engineering student focused on building **AI/ML systems that make better decisions about computation, tools, memory, and real-world actions**.
 

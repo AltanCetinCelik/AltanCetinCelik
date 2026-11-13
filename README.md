@@ -1,6 +1,8 @@
 # Altan Çetin Çelik
 
-### AI/ML Systems · Adaptive Inference · Agent Architecture · Edge AI
+### AI Systems · LLM Evaluation · Adaptive Inference · Backend & Edge AI
+
+**[altancelik.dev](https://altancelik.dev)** · [altancelik.dev](https://altancelik.dev) · [LinkedIn](https://www.linkedin.com/in/altan-celik-004bb1248/) · [GitHub](https://github.com/AltanCetinCelik)
 
 I'm an Electrical-Electronics Engineering student focused on building **AI/ML systems that make better decisions about computation, tools, memory, and real-world actions**.
 
@@ -95,6 +97,14 @@ Includes a sanitized industrial IoT / telemetry stack with:
 
 ---
 
+### [ROTA](https://github.com/AltanCetinCelik/rota)
+
+Non-custodial Solana Pay cross-border payment request platform (Crypto World's Fair 2026 / Superteam Türkiye × Arf) with on-chain receipts and live FX comparison against SWIFT, Wise, and Western Union.
+
+**Next.js 16 · TypeScript · @solana/web3.js · Solana Pay**
+
+---
+
 ### [luna-companion](https://github.com/AltanCetinCelik/luna-companion)
 
 An interactive, memory-driven web companion prototype built to explore stateful UX, character interaction, and responsive frontend architecture.
@@ -138,11 +148,11 @@ I'm particularly interested in systems that can answer questions such as:
 
 **AI / ML**
 
-`PyTorch` · `Transformers` · `PEFT / LoRA` · `RAG` · `LLM Routing` · `Agent Systems` · `Ollama`
+`PyTorch` · `Transformers` · `PEFT / LoRA` · `LLM Evaluation` · `Benchmarking` · `RAG` · `LLM Routing` · `Agent Systems` · `Ollama`
 
 **Backend / Systems**
 
-`FastAPI` · `Pydantic` · `Docker` · `Linux` · `pytest` · `REST` · `WebSockets`
+`FastAPI` · `asyncio` · `Pydantic` · `Pandas` · `Docker` · `Linux` · `pytest` · `GitHub Actions` · `REST` · `WebSockets`
 
 **Edge / Industrial**
 
@@ -176,6 +186,6 @@ That usually means:
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/altan-celik-004bb1248/) · [GitHub](https://github.com/AltanCetinCelik)
+[altancelik.dev](https://altancelik.dev) · [LinkedIn](https://www.linkedin.com/in/altan-celik-004bb1248/) · [GitHub](https://github.com/AltanCetinCelik)
 
 **Current focus:** SelectiveLLM, adaptive inference, agent systems, and edge AI.
